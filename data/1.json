@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"name": "Werkzeuge",
+	"description": "Alle Werkzeuge",
+	"items": [
+		{
+			"Name": "Akkuschrauber",
+			"Sch&auml;den": "schwacher Akku",
+			"Lagerort": "Keller"
+		},
+		{
+			"Name": "Hammer",
+			"Sch&auml;den": "keine",
+			"Lagerort": "Keller"
+		}
+	]
+}

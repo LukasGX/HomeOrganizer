@@ -1,0 +1,22 @@
+{
+	"id": 0,
+	"name": "Comics",
+	"description": "Alle Comics",
+	"items": [
+		{
+			"Titel": "LTB 600",
+			"Sch&auml;den": "keine",
+			"Lagerort": "Wohnzimmer"
+		},
+		{
+			"Titel": "LTB 256",
+			"Sch&auml;den": "gering",
+			"Lagerort": "Wohnzimmer"
+		},
+		{
+			"Titel": "LTB 571",
+			"Sch&auml;den": "keine",
+			"Lagerort": "Schlafzimmer"
+		}
+	]
+}
